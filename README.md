@@ -1,4 +1,4 @@
-###🏏 Cricket Analysis Dashboard
+🏏 Cricket Analysis Dashboard
 📌 Overview
 
 The Cricket Analysis Dashboard is a data visualization project designed to analyze cricket match statistics, player performance, team wins, and match results. It presents key performance indicators (KPIs), charts, and interactive filters in a single dashboard to make cricket data easy to understand.
